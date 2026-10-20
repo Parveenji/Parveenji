@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./wide_panoramic_dark_futuristic_tech_themed_banner.png"
+  <img src="./Bright Eureka Digital Ecosystem Banner.png"
        alt="Parveen Singh — Bright Eureka"
        width="100%">
 </p>
