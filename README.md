@@ -74,8 +74,6 @@ Exploring educational applications, interactive learning experiences, and techno
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parveenji&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parveenji&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
