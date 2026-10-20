@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Parveen Singh
+<p align="center">
+  <img src="./wide_panoramic_dark_futuristic_tech_themed_banner.png"
+       alt="Parveen Singh — Bright Eureka"
+       width="100%">
+</p>
+
+<br/># 👋 Hey, I'm Parveen Singh
 
 ### 🚀 Building the Digital Ecosystem for the Next Generation
 
